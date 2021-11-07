@@ -39,6 +39,8 @@ optional arguments:
                         dwukierunkowego
   -ms MQTT_SERVER, --mqtt_server MQTT_SERVER
                         Serwer MQTT
+  -msp MQTT_SERVER_PORT, --mqtt_server_port MQTT_SERVER_PORT
+                        Port serwera MQTT
   -mu MQTT_USERNAME, --mqtt_username MQTT_USERNAME
                         Uzytkownik MQTT
   -mp MQTT_PASSWORD, --mqtt_password MQTT_PASSWORD
